@@ -1,0 +1,17 @@
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\bin\Debug\net8.0-windows\Start_Stop3.exe
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\bin\Debug\net8.0-windows\Start_Stop3.deps.json
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\bin\Debug\net8.0-windows\Start_Stop3.runtimeconfig.json
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\bin\Debug\net8.0-windows\Start_Stop3.dll
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\bin\Debug\net8.0-windows\Start_Stop3.pdb
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.Form1.resources
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.Properties.Resources.resources
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.csproj.GenerateResource.cache
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.AssemblyInfoInputs.cache
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.AssemblyInfo.cs
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.csproj.CoreCompileInputs.cache
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.dll
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\refint\Start_Stop3.dll
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.pdb
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\Start_Stop3.genruntimeconfig.cache
+C:\Users\meka\source\repos\Start_Stop3\Start_Stop3\obj\Debug\net8.0-windows\ref\Start_Stop3.dll
